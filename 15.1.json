@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1557828079,
+      "datetime": 1587546215,
       "filename": "lineage-15.1-UNOFFICIAL-20200422-athene-signed.zip",
       "id": "c5345573cd7dd63f869e59ef87945dc58350e14d18e49476df6772d711eb22be",
       "romtype": "unofficial",
       "size": 394365239,
-      "url": "https://github.com/rajatgupta1998/lineage_releases/releases/download/20200422/lineage-15.1-UNOFFICIAL-20200422-athene-signed.zip",
+      "url": "https://github.com/rajatgupta1998/lineage_releases/releases/download/lineage-15.1-UNOFFICIAL-20200422-athene-signed.zip/lineage-15.1-UNOFFICIAL-20200422-athene-signed.zip",
       "version": "15.1"
     }
   ]
