@@ -5,8 +5,17 @@
       "filename": "lineage-15.1-20200423-UNOFFICIAL-athene.zip",
       "id": "9f2143d9f7927241090d991209821b5a01d83825b45a18920c622a548b7c7dd4",
       "romtype": "UNOFFICIAL",
-      "size": 394365239,
+      "size": 393794415,
       "url": "https://sourceforge.net/projects/lineage-athene/files/LineageOS%2015.1/test/lineage-15.1-20200423-UNOFFICIAL-athene.zip/download",
+      "version": "15.1"
+    },
+    {
+      "datetime": 1587704268,
+      "filename": "lineage-15.1-20200424-UNOFFICIAL-athene.zip",
+      "id": "5234402cb2f941fc5800406ecebcfcd2d67bdb418b15ca98a2691b7b1693483a",
+      "romtype": "UNOFFICIAL",
+      "size": 393798379,
+      "url": "https://sourceforge.net/projects/lineage-athene/files/LineageOS%2015.1/test/lineage-15.1-20200424-UNOFFICIAL-athene.zip/download",
       "version": "15.1"
     }
   ]
