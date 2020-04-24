@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1587546215,
-      "filename": "lineage-15.1-UNOFFICIAL-20200423-athene-signed.zip",
-      "id": "fee2a20a3b77539915b4a149034607f230589ab6b5c316f973548f42b313d480",
+      "datetime": 1587655607,
+      "filename": "lineage-15.1-20200423-UNOFFICIAL-athene.zip",
+      "id": "9f2143d9f7927241090d991209821b5a01d83825b45a18920c622a548b7c7dd4",
       "romtype": "UNOFFICIAL",
       "size": 394365239,
-      "url": "https://github.com/rajatgupta1998/lineage_releases/releases/download/test/lineage-15.1-UNOFFICIAL-20200423-athene-signed.zip",
+      "url": "https://sourceforge.net/projects/lineage-athene/files/LineageOS%2015.1/test/lineage-15.1-20200423-UNOFFICIAL-athene.zip/download",
       "version": "15.1"
     }
   ]
