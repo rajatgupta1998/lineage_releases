@@ -1,0 +1,14 @@
+{
+    "response": [
+      {
+        "datetime": "ro.buid.date.utc",
+        "filename": "",
+        "id": "sha256sum",
+        "romtype": "ro.build.type",
+        "size": 0,
+        "url": "",
+        "version": "ro.build.version.release"
+      }
+    ]
+  }
+  
