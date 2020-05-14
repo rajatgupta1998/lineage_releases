@@ -26,6 +26,15 @@
         "size": 853676342,
         "url": "https://sourceforge.net/projects/customroms-rajatgupta1998/files/LineageOS%2017.1/Realme%20X/lineage-17.1-20200506-UNOFFICIAL-RMX1901.zip/download",
         "version": "17.1"
+      },
+      {
+        "datetime": 1589372561,
+        "filename": "lineage-17.1-20200513-UNOFFICIAL-RMX1901.zip",
+        "id": "747fd1149bcf10c3f9a4fa6677b383fc035e67cc9422323b44a3f832adea9b4d",
+        "romtype": "UNOFFICIAL",
+        "size": 863435656,
+        "url": "https://sourceforge.net/projects/customroms-rajatgupta1998/files/LineageOS%2017.1/Realme%20X/lineage-17.1-20200513-UNOFFICIAL-RMX1901.zip/download",
+        "version": "17.1"
       }
     ]
 }
